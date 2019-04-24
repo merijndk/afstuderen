@@ -1,0 +1,6 @@
+# 2. Prototype
+
+Omdat mijn project in mindere maten over de UI van het systeem gaat en meer over de techniek er achter heb ik besloten hierna met het eerste prototype aan de slag te gaan. Echter is dit dus een technisch prototype waarbij ik meer focus op de functionaliteiten die in het systeem zitten en hoe dit aan de achter kant werkt, en minder hoe dit dan precies te besturen is. Dit houdt uiteraard niet in dat ik me helemaal niet bezig ga houden met de UI. Naast de techniek is het belangrijk dat Connecting Media en de klanten van Connecting media snappen hoe het systeem werkt en hoe ze het kunnen gebruiken. Er komt dus wel een UI maar daarin gaat het dus minder over hoe de kleur van de knop er uit ziet waarmee je een nieuwe live stream kan aanmaken en meer over de techniek die er achter de knop zit. Bij techniek moet je dan bijvoorbeeld denken aan, mag de gebruiker deze knop wel gebruiken, hoe ziet de database er uit waarin nieuwe webcasts opgeslagen worden en wat zijn instellingen die Connecting Media en de klanten nodig hebben voor een goede live stream
+
+Met de minimale eisen van het systeem helder en duidelijk is het nu tijd om het eerste prototype van het systeem te maken. In dit hoofdstuk documenteer ik de keuzes die ik heb gemaakt op technisch gebied.
+
